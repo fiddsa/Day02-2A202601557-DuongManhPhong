@@ -28,4 +28,4 @@ Trước lab này, nếu là mình một mình, có lẽ mình sẽ có xu hư�
 
 Cảm giác chung của mình: mặc dù hiểu lý do nhóm quyết định **Not Yet** (chưa có baseline đo thật, chưa có curated data mart/semantic model, chưa chỉ định được Data Owner), mình vẫn thấy nhóm hơi quá thận trọng. Với những câu hỏi "phổ biến, KPI đã định nghĩa sẵn" (nhóm A trong bảng phân loại ticket), mình nghĩ có thể pilot ngay ở mức Rule/template cho nhóm câu hỏi hẹp đó trong lúc song song đi validate phần còn lại, thay vì để cả bài toán đứng yên chờ đủ điều kiện.
 
-Nếu làm lại từ đầu, ở Phase 3 mình sẽ pitch mạnh hơn cho việc nhóm cần đi phỏng vấn thật ít nhất 2-3 người nghiệp vụ hoặc lấy ticket log trước khi chốt candidate — như vậy baseline "2-3 ngày" đã không còn là giả định phải ghi chú ở ngay đầu group-report nữa. Đây cũng là phần mình sẽ chủ động đẩy mạnh hơn nếu làm lại: ép nhóm có ít nhất một nguồn dữ liệu thật trước khi bước sang Phase 5, thay vì đào sâu workflow trên một baseline chưa kiểm chứng.
+Nếu làm lại từ đầu, mình sẽ ép nhóm có ít nhất một nguồn dữ liệu thật trước khi bước sang Phase 5, thay vì đào sâu workflow trên một baseline chưa kiểm chứng.
